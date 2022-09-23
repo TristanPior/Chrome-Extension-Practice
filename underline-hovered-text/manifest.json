@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Underline Hovered Text",
+    "description": "Underlines the text hovered over.",
+    "version": "1.0.0",
+    "browser_action": {
+        "default_icon": "underline.png"
+    },
+    "background": {
+        "scripts": {"background.js"}
+    }
+    
+}
