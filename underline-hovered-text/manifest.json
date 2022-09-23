@@ -7,7 +7,6 @@
         "default_icon": "underline.png"
     },
     "background": {
-        "scripts": {"background.js"}
+        "scripts": ["background.js"]
     }
-    
 }
